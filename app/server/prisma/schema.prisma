@@ -1,0 +1,20 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Podcast {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  host        String
+  description String?
+  imageUrl    String
+  audioUrl    String
+  createdAt   DateTime @default(now())
+
+  @@map("AllPodcasts")
+}

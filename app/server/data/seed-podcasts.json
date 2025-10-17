@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "68f02f722b55f9016ea0bfb1",
+    "title": "The BIG Journey",
+    "host": "Jane Doe",
+    "date": "10 jan 21",
+    "description": "A podcast about software engineering careers and growth.",
+    "imageUrl": "https://res.cloudinary.com/dvqhmeydt/image/upload/v1760618958/bcd3040d2d383ff21f0c859c6c69587b40fee08a_i5hvxp.png",
+    "audioUrl": "https://res.cloudinary.com/dvqhmeydt/video/upload/v1760455044/file_example_MP3_700KB_h4givh.mp3",
+    "duration": "25:30"
+  },
+  {
+    "_id": "68f02f722b55f9016ea0bfac",
+    "title": "Small Cloud Chats",
+    "host": "John Smith",
+    "date": "12 jan 21",
+    "description": "Weekly discussions on cloud infrastructure and best practices.",
+    "imageUrl": "https://res.cloudinary.com/dvqhmeydt/image/upload/v1760618954/db5c348e54c8b6172d98f4a8e4b376c4a216ea3f_xvcq7g.png",
+    "audioUrl": "https://res.cloudinary.com/dvqhmeydt/video/upload/v1760515409/sample-12s_qjkkcl.mp3",
+    "duration": "25:30"
+  },
+  {
+    "_id": "68f02f722b55f9016ea0bfad",
+    "title": "Large Chats",
+    "host": "John Smith",
+    "date": "22 jan 21",
+    "description": "Weekly discussions on cloud infrastructure and best practices.",
+    "imageUrl": "https://res.cloudinary.com/dvqhmeydt/image/upload/v1760618952/4dbd9f19409e76b49b173c40955b1dde2f664825_resnwz.jpg",
+    "audioUrl": "https://res.cloudinary.com/dvqhmeydt/video/upload/v1760515408/sample-9s_fq7bj8.mp3"
+  },
+   {
+    "_id": "68f02f722b55f9016ea0bfae",
+    "title": "High Chats",
+    "host": "John Smith",
+    "date": "18 jan 21",
+    "description": "Weekly discussions on cloud infrastructure and best practices.",
+    "imageUrl": "https://res.cloudinary.com/dvqhmeydt/image/upload/v1760618953/3c1a7770fa30f581e4b5a0533cae71c97bce7e9f_sdfqfl.jpg",
+    "audioUrl": "https://res.cloudinary.com/dvqhmeydt/video/upload/v1760515408/sample-15s_n5cqj3.mp3"
+  },
+   {
+    "_id": "68f02f722b55f9016ea0bfaf",
+    "title": "Good Chats",
+    "host": "John Smith",
+    "date": "8 jan 21",
+    "description": "Weekly discussions on cloud infrastructure and best practices.",
+    "imageUrl": "https://res.cloudinary.com/dvqhmeydt/image/upload/v1760618958/bcd3040d2d383ff21f0c859c6c69587b40fee08a_i5hvxp.png",
+    "audioUrl": "https://res.cloudinary.com/dvqhmeydt/video/upload/v1760455044/file_example_MP3_700KB_h4givh.mp3"
+  },
+   {
+    "_id": "68f02f722b55f9016ea0bfb0",
+    "title": "Big Chats",
+    "host": "John Smith",
+    "date": "19 jan 21",
+    "description": "Weekly discussions on cloud infrastructure and best practices.",
+    "imageUrl": "https://res.cloudinary.com/dvqhmeydt/image/upload/v1760457732/2_bs9sre.jpg",
+    "audioUrl": "https://res.cloudinary.com/dvqhmeydt/video/upload/v1760515408/sample-15s_n5cqj3.mp3"
+  }
+]
